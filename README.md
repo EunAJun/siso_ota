@@ -7,6 +7,11 @@ siso_oxi_v1.0.20250425_0 : 97c664c2d253c70d30873f61f17a8cf3c9708a7345ac0338816c5
 siso_oxi_v1.0.20250425_1 : df1c9cc2387c6fe744eb02a613aba23616c70e7f0d1ef3dbba711d70dc67c20f
 
 
+Add a feature to notify the app of wifi connection result.
+
+siso_oxi_v1.0.20250425_2 : 7f7a21e146cb068465e3cbfed1583af41a8ac61ddeb81e7d923eb8f0a8b6b634
+
+siso_oxi_v1.0.20250425_3 : a28523f269432f852a882bd4649230e204e77920ce715a23eaafe394333be6fa
 
 ---------------------------------------------
 siso_oxi_7 : 3b45c9c67cadb96115d8ca481d474263cc8d33960263ba82e68fb85fa64dbeb1
