@@ -1,4 +1,15 @@
-2025.04.25
+## 2025.05.15 ####################################################################################
+
+siso_oxi_v1_0_20250515.bin : 2c75d9f6a9c2f2b6cf62253619031cbf5010205f30b49d8dda4f15bb29a5b4c9
+
+siso_oxi_v1_1_20250515.bin : 7e0169c3d9c1b930416716d25c0d11346215a3671dc71167133391d4df137e5f
+
+1. Changed buzzer setting information format : 1byte -> 2bytes  
+2. Add a response about wifi connection fail or sucess message
+3. Add a function to stop operation during charging 
+
+
+## 2025.04.25 ####################################################################################
 
 # 1. Modified to send hash value as chars rather than byes. 
 
