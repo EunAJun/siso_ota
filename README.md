@@ -6,7 +6,8 @@ siso_oxi_v1_1_20250519.bin : 9495af0d695ba5707e8c5988042cb1c5394e16db29e7c6769a0
 
 1. Changed buzzer setting information format : 1byte -> 2bytes  
 2. Add a response about wifi connection fail or sucess message
-3. Add a function to stop operation during charging 
+3. Add a function to stop operation during charging
+4. Add a function to set setting informations to default after a reset operation.  
 
 
 ## 2025.04.25 ####################################################################################
