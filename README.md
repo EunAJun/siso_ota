@@ -1,8 +1,8 @@
 ## 2025.05.19 ####################################################################################
 
-siso_oxi_v1_0_20250519.bin : 05452d34320e7b420cf01c04ff40a19f762c11e4d4c719c3baecba3b8b5b70f7
+siso_oxi_v1_0_20250519.bin : d52b94247fc9a97c29277e7b6c733614ae6054b7cc5b4b28e1c12f387a3c2d29
 
-siso_oxi_v1_1_20250519.bin : 9495af0d695ba5707e8c5988042cb1c5394e16db29e7c6769a078702b6b7676c
+siso_oxi_v1_1_20250519.bin : b25d31dc327070637b49fbf79967703d1cb28bc4b8520e73deb71b67f68b80dc
 
 1. Changed buzzer setting information format : 1byte -> 2bytes  
 2. Add a response about wifi connection fail or sucess message
