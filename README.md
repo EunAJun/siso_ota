@@ -1,3 +1,13 @@
+## 2025.05.23 ####################################################################################
+
+siso_oxi_v1_0_20250523.bin : b24f55fe7856064c3cd36a242f6008bce51145f222d6e26e0deede199506e457
+
+siso_oxi_v1_1_20250523.bin : 1f66b6642d9e06d7f95246178585b55a6e3c79bb95cfc0595bb7b926450411bc
+
+1. Modified Wifi connection failure issue.
+2. Modified Devie shutdown failure issue.
+3. Modified that Error value be represented as positive values.   
+
 ## 2025.05.19 ####################################################################################
 
 siso_oxi_v1_0_20250519.bin : 4434fe916149c7bac8b2470e6d74edcf3b756343df8aec278305aafdef261653
